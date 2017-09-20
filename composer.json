@@ -1,5 +1,5 @@
 {
-    "name": "nmb/tp5_wxpay",
+    "name": "zxk7516/thinkphp5_wxpay",
     "description": "tp5 wxpay",
     "type": "library",
     "license": "MIT",
@@ -13,6 +13,6 @@
         "php": ">=7.0",
     },
         "autoload": {
-        "psr-4": { "nmb\\tp5_wxpay": "" },
+        "psr-4": { "zxk7516\\thinkphp5_wxpay": "" },
     }
 }
