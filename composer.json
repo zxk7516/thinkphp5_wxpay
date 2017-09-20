@@ -9,8 +9,9 @@
             "email": "zxk7516@foxmail.com"
         }
     ],
+
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.0"
     },
         "autoload": {
         "psr-4": { "zxk7516\\thinkphp5_wxpay": "" },
